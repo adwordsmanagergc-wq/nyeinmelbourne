@@ -1,0 +1,1246 @@
+[
+  {
+    "slug": "riverland-bar-nye",
+    "name": "Riverland Bar NYE Party",
+    "venue": "Riverland Bar, Federation Wharf (below Fed Square)",
+    "suburb": "Melbourne CBD",
+    "area": "Melbourne CBD",
+    "categories": [
+      "party",
+      "yarra",
+      "budget"
+    ],
+    "price_from": 165,
+    "price_text": "$165 early bird (to 30 Nov) · $175 general",
+    "time": "6:00pm – 1:00am (package 8:00pm – 12:30am)",
+    "includes": [
+      "4.5 hours of all-inclusive beer, wine, bubbles and spirits",
+      "One signature cocktail per guest",
+      "Roving food all night",
+      "Two DJ dance floors",
+      "Riverside views of the city fireworks"
+    ],
+    "fireworks": "City fireworks views",
+    "age": "18+",
+    "url": "https://www.riverlandbar.com/whats-on/new-years-eve/",
+    "featured": true,
+    "blurb": "A riverside party in the old bluestone vaults under Federation Square, with two dance floors and the Yarra right at your feet."
+  },
+  {
+    "slug": "rooftop-at-qt-nye",
+    "name": "New Year's Eve at Rooftop at QT",
+    "venue": "Rooftop at QT, QT Melbourne, 133 Russell St",
+    "suburb": "Melbourne CBD",
+    "area": "Melbourne CBD",
+    "categories": [
+      "party",
+      "rooftop"
+    ],
+    "price_from": 295,
+    "price_text": "$295 GA · $395 VIP booth · $450 VIP balcony (2025 prices, 2026 TBC)",
+    "time": "From 7:00pm (2025)",
+    "includes": [
+      "Bottomless drinks",
+      "Canapés and oysters",
+      "Live band and DJs",
+      "Rooftop views of the city fireworks",
+      "VIP booth and balcony upgrades"
+    ],
+    "fireworks": "City fireworks views",
+    "age": "18+",
+    "url": "https://www.qthotels.com/melbourne/",
+    "featured": true,
+    "blurb": "One of the CBD's best-known rooftops, with bottomless drinks, oysters and a live band high above Russell Street."
+  },
+  {
+    "slug": "arbory-afloat-nye",
+    "name": "NYE at Arbory Afloat",
+    "venue": "Arbory Afloat, 2 Flinders Walk",
+    "suburb": "Melbourne CBD",
+    "area": "Melbourne CBD",
+    "categories": [
+      "party",
+      "yarra"
+    ],
+    "price_from": 225,
+    "price_text": "$225 – $325 (2025 prices, 2026 TBC)",
+    "time": "6:00pm – 1:00am (2025)",
+    "includes": [
+      "Flowing drinks and canapés from 8pm to midnight (2025)",
+      "Pop-up food stations",
+      "DJs and roaming performers",
+      "Main Deck, VIP Upper Deck and Beach Club packages",
+      "Views along the Yarra"
+    ],
+    "fireworks": "City fireworks views",
+    "age": "18+",
+    "url": "https://arbory.com.au/",
+    "featured": false,
+    "blurb": "A floating bar moored on the Yarra beside Flinders Street Station, turned into an all-inclusive river party for the night."
+  },
+  {
+    "slug": "ponyfish-island-nye",
+    "name": "Ponyfish Island NYE Party",
+    "venue": "Ponyfish Island, under the Evan Walker Bridge",
+    "suburb": "Southbank",
+    "area": "Southbank & South Wharf",
+    "categories": [
+      "party",
+      "yarra",
+      "budget"
+    ],
+    "price_from": 199,
+    "price_text": "$199 – $220 (2025 prices, 2026 TBC)",
+    "time": "8:00pm – 1:00am (2025)",
+    "includes": [
+      "Four-hour inclusive drinks package",
+      "Roaming pizza",
+      "Live DJs",
+      "A bar in the middle of the Yarra"
+    ],
+    "fireworks": "City fireworks views",
+    "age": "18+",
+    "url": "https://www.ponyfishisland.com.au/",
+    "featured": false,
+    "blurb": "A tiny bar built into the pylons of a footbridge in the middle of the Yarra. Few places put you closer to the river on NYE."
+  },
+  {
+    "slug": "general-assembly-nye",
+    "name": "The General Assembly All-Inclusive NYE",
+    "venue": "The General Assembly, 29 South Wharf Promenade",
+    "suburb": "South Wharf",
+    "area": "Southbank & South Wharf",
+    "categories": [
+      "party",
+      "yarra",
+      "budget"
+    ],
+    "price_from": 155,
+    "price_text": "$155 – $170 (2025 prices, 2026 TBC)",
+    "time": "7:30pm – 12:30am (2025)",
+    "includes": [
+      "Five-hour inclusive food and drinks",
+      "Unlimited bubbles, beer, wine and spirits",
+      "Roving food and late-night cheeseburgers",
+      "Acoustic sets, then DJs",
+      "Riverside fireworks views"
+    ],
+    "fireworks": "City fireworks views",
+    "age": "18+",
+    "url": "https://thegeneralassembly.com.au/",
+    "featured": false,
+    "blurb": "A big riverside brewpub on South Wharf with one of the better-value all-inclusive packages on the Yarra."
+  },
+  {
+    "slug": "boatbuilders-yard-nye",
+    "name": "The Boatbuilders Yard NYE",
+    "venue": "The Boatbuilders Yard, 23 South Wharf Promenade",
+    "suburb": "South Wharf",
+    "area": "Southbank & South Wharf",
+    "categories": [
+      "party",
+      "yarra",
+      "budget"
+    ],
+    "price_from": 150,
+    "price_text": "$150 early bird · $170 general (2024 prices, 2026 TBC)",
+    "time": "Evening (times TBC)",
+    "includes": [
+      "All-inclusive drinks and food package",
+      "Cocktail on arrival",
+      "DJs",
+      "Riverside fireworks views"
+    ],
+    "fireworks": "City fireworks views",
+    "age": "18+",
+    "url": "https://www.theboatbuildersyard.com.au/",
+    "featured": false,
+    "blurb": "A sprawling waterfront beer garden next to the Polly Woodside tall ship, with an all-inclusive party package."
+  },
+  {
+    "slug": "h2oh-metropolis-nye",
+    "name": "NYE H2oh at Metropolis Southgate",
+    "venue": "Metropolis Events, top level of Southgate",
+    "suburb": "Southbank",
+    "area": "Southbank & South Wharf",
+    "categories": [
+      "party",
+      "yarra",
+      "budget"
+    ],
+    "price_from": 160,
+    "price_text": "From $160 (2025 price; call for 2026 rates)",
+    "time": "Evening into the early hours",
+    "includes": [
+      "All-inclusive bar and cocktail food",
+      "Multiple DJs and live vocalists",
+      "Outdoor terrace over the Yarra",
+      "Fireworks views in front of the venue"
+    ],
+    "fireworks": "City fireworks views",
+    "age": "18+",
+    "url": "https://nyeh2o.com.au/",
+    "featured": false,
+    "blurb": "An all-inclusive party on the top floor of Southgate, with a terrace looking straight across the river to the city."
+  },
+  {
+    "slug": "transit-rooftop-nye",
+    "name": "NYE at Transit Rooftop Bar",
+    "venue": "Transit Rooftop Bar, Transport Hotel, Federation Square",
+    "suburb": "Melbourne CBD",
+    "area": "Melbourne CBD",
+    "categories": [
+      "party",
+      "rooftop",
+      "budget"
+    ],
+    "price_from": 175,
+    "price_text": "$175 GA · $385 VIP (2025 prices, 2026 TBC)",
+    "time": "3:00pm – 1:00am (2025)",
+    "includes": [
+      "Unlimited drinks package",
+      "DJs all night",
+      "Rooftop views over Fed Square and the river"
+    ],
+    "fireworks": "City fireworks views",
+    "age": "18+",
+    "url": "https://www.transporthotel.com.au/",
+    "featured": false,
+    "blurb": "A rooftop above Federation Square, right in the middle of the action, with DJs from the afternoon until 1am."
+  },
+  {
+    "slug": "transport-public-bar-nye",
+    "name": "New Year's Eve at Transport Public Bar",
+    "venue": "Transport Public Bar, Federation Square",
+    "suburb": "Melbourne CBD",
+    "area": "Melbourne CBD",
+    "categories": [
+      "party",
+      "budget"
+    ],
+    "price_from": 25,
+    "price_text": "$25pp guaranteed entry incl. a pint or cocktail (2025, TBC)",
+    "time": "11:00am – 1:00am (2025)",
+    "includes": [
+      "Guaranteed entry",
+      "A pint or cocktail included",
+      "Live bands and DJs",
+      "Big screens for the countdown"
+    ],
+    "fireworks": "Fed Square fireworks",
+    "age": "18+ (check with venue)",
+    "url": "https://www.transporthotel.com.au/events/new-years-eve-2025-at-transport-public-bar",
+    "featured": false,
+    "blurb": "The cheapest guaranteed-entry option at Fed Square: a ground-floor pub with bands, DJs and the countdown on the big screens."
+  },
+  {
+    "slug": "imperial-hotel-rooftop-nye",
+    "name": "Imperial Hotel Rooftop NYE Party",
+    "venue": "Imperial Hotel, 2 Bourke St",
+    "suburb": "Melbourne CBD",
+    "area": "Melbourne CBD",
+    "categories": [
+      "party",
+      "rooftop",
+      "budget"
+    ],
+    "price_from": 179,
+    "price_text": "$179 first release · $199 second release (2025 prices, 2026 TBC)",
+    "time": "7:00pm – 1:00am (2025)",
+    "includes": [
+      "Four-hour drinks package (beer, wine, spirits)",
+      "Roaming canapés",
+      "Live music and DJs",
+      "Rooftop at the Parliament end of Bourke St"
+    ],
+    "fireworks": "City fireworks views",
+    "age": "18+",
+    "url": "https://bourkestreetimperial.com/",
+    "featured": false,
+    "blurb": "A pub rooftop at the top of Bourke Street with a four-hour drinks package at a mid-range price."
+  },
+  {
+    "slug": "good-heavens-nye",
+    "name": "NYE at Good Heavens Rooftop",
+    "venue": "Good Heavens, 79 Bourke St",
+    "suburb": "Melbourne CBD",
+    "area": "Melbourne CBD",
+    "categories": [
+      "party",
+      "rooftop",
+      "budget"
+    ],
+    "price_from": 120,
+    "price_text": "$120 – $160 Classic · $160 – $200 Fancy (2025 prices, 2026 TBC)",
+    "time": "From 8:00pm (2025)",
+    "includes": [
+      "Roaming bites",
+      "Flowing drinks",
+      "Top DJs",
+      "Rooftop fireworks views"
+    ],
+    "fireworks": "City fireworks views",
+    "age": "18+",
+    "url": "https://www.goodheavens.com.au/",
+    "featured": false,
+    "blurb": "A breezy rooftop above Bourke Street with two package levels and some of the cheapest early-bird tickets in the CBD."
+  },
+  {
+    "slug": "blossom-rooftop-nye",
+    "name": "New Year's Eve at Blossom Rooftop Bar",
+    "venue": "Blossom Rooftop Bar, Level 14, 195 Swanston St",
+    "suburb": "Melbourne CBD",
+    "area": "Melbourne CBD",
+    "categories": [
+      "party",
+      "rooftop"
+    ],
+    "price_from": 300,
+    "price_text": "$300 GA · VIP tables and lounges available (2025 prices, 2026 TBC)",
+    "time": "8:00pm – 1:00am (2025)",
+    "includes": [
+      "Premium sparkling, wine, beer and cocktails",
+      "Oyster station and canapés",
+      "Endless wood-fired pizzas",
+      "Dessert station",
+      "Live music and DJs"
+    ],
+    "fireworks": "City fireworks views",
+    "age": "18+",
+    "url": "https://www.pullmanmelbournecitycentre.com.au/meetings-and-events/blossom-rooftop-bar",
+    "featured": false,
+    "blurb": "A 14th-floor rooftop on Swanston Street with oysters, wood-fired pizza and a premium drinks package."
+  },
+  {
+    "slug": "cleo-nye",
+    "name": "New Year's Eve at Cleo",
+    "venue": "Cleo, Level 12, 130 Russell St",
+    "suburb": "Melbourne CBD",
+    "area": "Melbourne CBD",
+    "categories": [
+      "party",
+      "rooftop"
+    ],
+    "price_from": 299,
+    "price_text": "From $299 · VIP and Platinum packages",
+    "time": "8:00pm – 1:00am",
+    "includes": [
+      "Bottomless beverage package",
+      "Roaming canapés and oysters",
+      "Live entertainment and DJs",
+      "Midnight fireworks through the circular windows"
+    ],
+    "fireworks": "Midnight",
+    "age": "18+",
+    "url": "https://cleomelbourne.com.au/whats-on/new-years-eve-melbourne",
+    "featured": true,
+    "blurb": "A 12th-floor bar on Russell Street whose round windows frame the midnight fireworks. 2026 tickets are on sale."
+  },
+  {
+    "slug": "le-splash-rooftop-nye",
+    "name": "NYE at LE SPLASH Rooftop",
+    "venue": "LE SPLASH Rooftop Pool Bar, Le Méridien Melbourne, Bourke St",
+    "suburb": "Melbourne CBD",
+    "area": "Melbourne CBD",
+    "categories": [
+      "party",
+      "rooftop",
+      "dining"
+    ],
+    "price_from": 150,
+    "price_text": "$150 – $399 (2025 prices, 2026 TBC)",
+    "time": "5:00pm – 12:30am (2025)",
+    "includes": [
+      "Optional four-course dinner at DOLLY",
+      "Rooftop pool bar access",
+      "Free-flowing bubbles, beer and wine",
+      "Oyster bar and canapés",
+      "Live band and DJ"
+    ],
+    "fireworks": "City fireworks views",
+    "age": "18+",
+    "url": "https://www.lesplashmelbourne.com/",
+    "featured": false,
+    "blurb": "A rooftop pool bar on a new CBD hotel, with options from party-only to dinner downstairs then the roof for midnight."
+  },
+  {
+    "slug": "farmers-daughters-rooftop-nye",
+    "name": "Farmer's Daughters Rooftop NYE",
+    "venue": "Farmer's Daughters, 80 Collins (Exhibition St)",
+    "suburb": "Melbourne CBD",
+    "area": "Melbourne CBD",
+    "categories": [
+      "party",
+      "rooftop",
+      "dining",
+      "budget"
+    ],
+    "price_from": 100,
+    "price_text": "$100 – $195 (2025 prices, 2026 TBC)",
+    "time": "5:00pm – 11:30pm (2025)",
+    "includes": [
+      "Four-hour beverage package",
+      "Grazing platters",
+      "DJ on the rooftop",
+      "Separate restaurant dining menu"
+    ],
+    "fireworks": "Skyline views",
+    "age": "18+ (rooftop)",
+    "url": "https://www.farmersdaughters.com.au/whats-on",
+    "featured": false,
+    "blurb": "A Gippsland-focused restaurant with a leafy rooftop bar at 80 Collins, running both a rooftop session and a NYE dinner."
+  },
+  {
+    "slug": "strato-nye",
+    "name": "New Year's Eve at Strato",
+    "venue": "Strato Melbourne, Level 40, 202 Normanby Rd",
+    "suburb": "Southbank",
+    "area": "Southbank & South Wharf",
+    "categories": [
+      "dining",
+      "rooftop",
+      "budget"
+    ],
+    "price_from": 85,
+    "price_text": "Bar entry $85 – $100 · restaurant $259 (+$200 window seat) (2025 prices, 2026 TBC)",
+    "time": "From 6:00pm (2025)",
+    "includes": [
+      "Curated NYE menu in the restaurant",
+      "Bar entry option",
+      "40th-floor views across the city"
+    ],
+    "fireworks": "Skyline views from level 40",
+    "age": "18+ (bar)",
+    "url": "https://www.stratomelbourne.com.au/",
+    "featured": false,
+    "blurb": "A 40th-floor bar and restaurant in Southbank looking back over the whole city skyline."
+  },
+  {
+    "slug": "melbourne-skydeck-sky-high-nye",
+    "name": "Sky High New Year's Eve at Melbourne Skydeck",
+    "venue": "Melbourne Skydeck, Level 88, Eureka Tower, 7 Riverside Quay",
+    "suburb": "Southbank",
+    "area": "Southbank & South Wharf",
+    "categories": [
+      "party",
+      "vantage"
+    ],
+    "price_from": 300,
+    "price_text": "$300 per adult (2024 price, 2026 TBC)",
+    "time": "8:00pm – 1:00am",
+    "includes": [
+      "Drinks package (beer, wine, sparkling)",
+      "Roaming gourmet canapés",
+      "DJ and saxophone",
+      "Access to The Edge and the Voyager Theatre",
+      "Premium drinks upgrade available"
+    ],
+    "fireworks": "Both, from 285m up",
+    "age": "Check with venue",
+    "url": "https://www.melbourneskydeck.com.au/nye-expression-of-interest/",
+    "featured": true,
+    "blurb": "Watch the rooftop fireworks from above, on the 88th floor of Eureka Tower: the highest NYE party in town."
+  },
+  {
+    "slug": "provincial-rooftop-nye",
+    "name": "Rooftop NYE at The Provincial",
+    "venue": "The Provincial Hotel, 299 Brunswick St",
+    "suburb": "Fitzroy",
+    "area": "Inner North",
+    "categories": [
+      "party",
+      "rooftop",
+      "budget"
+    ],
+    "price_from": 159,
+    "price_text": "$159 early bird · $169 · $179 (2025 prices, 2026 TBC)",
+    "time": "From 7:00pm (2025)",
+    "includes": [
+      "Four-hour bottomless beverage package",
+      "Oyster station and canapés",
+      "Churro chocolate fountain",
+      "Live entertainment"
+    ],
+    "fireworks": "Distant skyline views",
+    "age": "18+",
+    "url": "https://provincialhotel.com.au/whats-on/",
+    "featured": false,
+    "blurb": "A Brunswick Street rooftop with a bottomless package, for a Fitzroy night out with the city on the horizon."
+  },
+  {
+    "slug": "naked-for-satan-nye",
+    "name": "NYE Rooftop Party at Naked For Satan",
+    "venue": "Naked For Satan, 285 Brunswick St",
+    "suburb": "Fitzroy",
+    "area": "Inner North",
+    "categories": [
+      "party",
+      "rooftop"
+    ],
+    "price_from": null,
+    "price_text": "TBA (all-inclusive package in 2025)",
+    "time": "From 8:00pm (2025)",
+    "includes": [
+      "All-inclusive food and drinks package",
+      "Rooftop terrace with city views",
+      "DJs"
+    ],
+    "fireworks": "Distant skyline views",
+    "age": "18+",
+    "url": "https://nakedforsatan.com.au/",
+    "featured": false,
+    "blurb": "Fitzroy's famous rooftop (once known as Naked in the Sky) runs an all-inclusive NYE party with views back to the CBD."
+  },
+  {
+    "slug": "johnnys-green-room-nye",
+    "name": "Johnny's Green Room NYE",
+    "venue": "Johnny's Green Room, Lygon St",
+    "suburb": "Carlton",
+    "area": "Inner North",
+    "categories": [
+      "party",
+      "rooftop"
+    ],
+    "price_from": 300,
+    "price_text": "$300pp (2025 price, 2026 TBC)",
+    "time": "7:00pm – 1:00am (2025)",
+    "includes": [
+      "Cocktail on arrival",
+      "Food by Karen Martini",
+      "Wine, beer and spirits until 1am",
+      "DJ sets",
+      "City fireworks views"
+    ],
+    "fireworks": "City fireworks views",
+    "age": "18+",
+    "url": "https://johnnysgreenroom.com/",
+    "featured": false,
+    "blurb": "A Lygon Street rooftop with Italian beach-club energy, food from Karen Martini and drinks until 1am."
+  },
+  {
+    "slug": "mount-view-hotel-rooftop-nye",
+    "name": "Mt View Hotel Rooftop NYE",
+    "venue": "Mt View Hotel, 70 Bridge Rd",
+    "suburb": "Richmond",
+    "area": "Richmond & South Yarra",
+    "categories": [
+      "party",
+      "rooftop",
+      "budget"
+    ],
+    "price_from": 150,
+    "price_text": "$150 early bird · $180 general",
+    "time": "Rooftop from 7:00pm · package 8:00pm – midnight",
+    "includes": [
+      "Four-hour drinks package (tap beer, house wine, basic spirits, slushies)",
+      "Cocktail on arrival",
+      "Roaming canapés",
+      "Rooftop skyline views"
+    ],
+    "fireworks": "Skyline views",
+    "age": "18+",
+    "url": "https://www.mtviewhotel.com.au/nye",
+    "featured": false,
+    "blurb": "A Richmond pub rooftop with a clear look at the city skyline. 2026 tickets are already on sale."
+  },
+  {
+    "slug": "yugen-dining-nye",
+    "name": "NYE at Yūgen Dining & Omnia",
+    "venue": "Yūgen Dining, Toorak Rd",
+    "suburb": "South Yarra",
+    "area": "Richmond & South Yarra",
+    "categories": [
+      "party",
+      "dining",
+      "budget"
+    ],
+    "price_from": 85,
+    "price_text": "Party from $85 (2025 price, 2026 TBC); dinner includes a party ticket",
+    "time": "Dinner, then party from 10:30pm (2025)",
+    "includes": [
+      "Signature cocktails on arrival",
+      "Contemporary canapés",
+      "Live music and dancers",
+      "Dinner bookings include party entry"
+    ],
+    "fireworks": "No direct view",
+    "age": "18+",
+    "url": "https://yugendining.com.au/",
+    "featured": false,
+    "blurb": "A glamorous South Yarra Japanese restaurant that turns into a late party, with dinner guests going straight through."
+  },
+  {
+    "slug": "st-kilda-sea-baths-nye",
+    "name": "St Kilda Sea Baths New Year's Eve",
+    "venue": "St Kilda Sea Baths, 10–18 Jacka Blvd",
+    "suburb": "St Kilda",
+    "area": "St Kilda & Bayside",
+    "categories": [
+      "party",
+      "bay",
+      "budget"
+    ],
+    "price_from": 97,
+    "price_text": "From $97 (2025 price, 2026 TBC)",
+    "time": "From 4:00pm (2025)",
+    "includes": [
+      "Complimentary drinks and canapés for the first hours (2025)",
+      "Nine DJs across four spaces",
+      "Beachfront on Port Phillip Bay"
+    ],
+    "fireworks": "Distant city views",
+    "age": "18+",
+    "url": "https://www.stkildaseabaths.com.au/",
+    "featured": false,
+    "blurb": "A beachfront multi-venue party on the St Kilda foreshore, with nine DJs and the bay as the backdrop."
+  },
+  {
+    "slug": "new-years-at-the-bowl-2026",
+    "name": "New Year's at the Bowl",
+    "venue": "Sidney Myer Music Bowl & Kings Domain",
+    "suburb": "Melbourne",
+    "area": "Kings Domain & Arts Precinct",
+    "categories": [
+      "party"
+    ],
+    "price_from": null,
+    "price_text": "TBA (see official ticketing)",
+    "time": "Afternoon until after midnight (2025 ran to 1:30am)",
+    "includes": [
+      "Major Lazer, Flight Facilities (DJ), DJ Seinfeld (live), Todd Terje (DJ), Helena Hauff, CC:DISCO! and more",
+      "Special guest for the midnight countdown",
+      "Multiple stages in the Bowl and gardens"
+    ],
+    "fireworks": "Next to the Kings Domain zone",
+    "age": "18+ (2025; confirm for 2026)",
+    "url": "https://nyatthebowl.com.au/",
+    "featured": true,
+    "blurb": "Melbourne's inner-city NYE festival returns for its second year, with Major Lazer headlining the Sidney Myer Music Bowl."
+  },
+  {
+    "slug": "sea-life-melbourne-nye",
+    "name": "New Year's Eve at SEA LIFE Melbourne Aquarium",
+    "venue": "SEA LIFE Melbourne Aquarium, King St (on the Yarra)",
+    "suburb": "Melbourne CBD",
+    "area": "Melbourne CBD",
+    "categories": [
+      "party",
+      "yarra"
+    ],
+    "price_from": null,
+    "price_text": "TBA (2026 details not yet released)",
+    "time": "8:00pm – 1:00am (2025)",
+    "includes": [
+      "Street food stalls",
+      "Entertainment",
+      "Riverside fireworks views",
+      "After-dark access to the aquarium (check)"
+    ],
+    "fireworks": "City fireworks views",
+    "age": "Check with venue",
+    "url": "https://www.visitsealife.com/melbourne/",
+    "featured": false,
+    "blurb": "A riverside party at the aquarium on the Yarra, with street food, entertainment and a view of the fireworks."
+  },
+  {
+    "slug": "her-melbourne-nye",
+    "name": "New Year's Eve at Her",
+    "venue": "Her, 270 Lonsdale St",
+    "suburb": "Melbourne CBD",
+    "area": "Melbourne CBD",
+    "categories": [
+      "party",
+      "rooftop",
+      "dining",
+      "budget"
+    ],
+    "price_from": 85,
+    "price_text": "$85 – $130 dinners; rooftop all-inclusive extra (2025 prices, 2026 TBC)",
+    "time": "From 8:00pm (2025)",
+    "includes": [
+      "Four floors: Her Bar, BKK, Music Room and the rooftop",
+      "Four-course dinner options",
+      "Rooftop free-flow food and drinks package",
+      "Dance floor in the Music Room"
+    ],
+    "fireworks": "Rooftop fireworks views",
+    "age": "18+",
+    "url": "https://her.melbourne/",
+    "featured": false,
+    "blurb": "A four-level venue that lets you pick your night: Thai barbecue dinner, steak frites, a dance floor or an all-inclusive rooftop."
+  },
+  {
+    "slug": "crown-melbourne-nye",
+    "name": "New Year's Eve at Crown Melbourne",
+    "venue": "Crown Melbourne, Southbank Promenade",
+    "suburb": "Southbank",
+    "area": "Southbank & South Wharf",
+    "categories": [
+      "dining",
+      "party",
+      "yarra"
+    ],
+    "price_from": null,
+    "price_text": "TBA (venue-by-venue)",
+    "time": "Varies by venue",
+    "includes": [
+      "Dinners at Crown restaurants (2025 included Conservatory, Nobu, The Atlantic)",
+      "28 Skybar Lounge cocktails",
+      "Ging Thai terrace with DJ",
+      "Late-night club parties"
+    ],
+    "fireworks": "Riverside views (varies)",
+    "age": "Varies by venue",
+    "url": "https://www.crownmelbourne.com.au/whats-on/nye",
+    "featured": false,
+    "blurb": "Southbank's riverside complex runs a whole precinct of NYE options, from seafood buffets to its highest cocktail bar."
+  },
+  {
+    "slug": "ludlow-nye-dinner",
+    "name": "Ludlow New Year's Eve Dinner",
+    "venue": "Ludlow Bar & Dining Room, Riverside Quay, Southbank Promenade",
+    "suburb": "Southbank",
+    "area": "Southbank & South Wharf",
+    "categories": [
+      "dining",
+      "yarra",
+      "family",
+      "budget"
+    ],
+    "price_from": 130,
+    "price_text": "Twilight $130 (kids $50) · Late $209 inside / $229 terrace",
+    "time": "Twilight 5:00pm & 5:30pm · Late 8:30pm – 9:30pm sittings",
+    "includes": [
+      "Twilight: three-course menu, family-friendly, vacate by 8pm",
+      "Late: three courses plus sparkling on arrival",
+      "DJs and dancing after dinner (late seating)",
+      "Yarra-front terrace"
+    ],
+    "fireworks": "Midnight (late seating)",
+    "age": "Twilight all ages · Late 18+",
+    "url": "https://ludlowbar.com.au/event/new-years-eve/",
+    "featured": true,
+    "blurb": "A Southbank riverside favourite with an early family seating and an 18+ late dinner that runs into the midnight fireworks. 2026 bookings are open."
+  },
+  {
+    "slug": "pj-obriens-nye-dinner",
+    "name": "NYE Dinner at P.J. O'Brien's",
+    "venue": "P.J. O'Brien's, Southgate",
+    "suburb": "Southbank",
+    "area": "Southbank & South Wharf",
+    "categories": [
+      "dining",
+      "yarra",
+      "family",
+      "budget"
+    ],
+    "price_from": 110,
+    "price_text": "$110 adults · $25 kids (two courses)",
+    "time": "Bookings from 7:00pm · live music 6–9pm and 10pm–1am",
+    "includes": [
+      "Three-course dinner",
+      "Arrival drink (Guinness, house wine or beer)",
+      "Your table for the whole evening",
+      "Free-entry main bar party (no bookings)"
+    ],
+    "fireworks": "Southbank fireworks views",
+    "age": "All ages until 10pm",
+    "url": "https://www.pjobriens.com.au/melbourne/event/new-years-eve-at-p-js/",
+    "featured": false,
+    "blurb": "An Irish pub at Southgate where your table is yours all night, so you can eat, stay and watch the fireworks. Kids welcome until 10pm."
+  },
+  {
+    "slug": "hophaus-nye-dinner",
+    "name": "Hophaus New Year's Eve Dining",
+    "venue": "Hophaus Bar & Restaurant, Southgate",
+    "suburb": "Southbank",
+    "area": "Southbank & South Wharf",
+    "categories": [
+      "dining",
+      "yarra",
+      "budget"
+    ],
+    "price_from": 170,
+    "price_text": "$170pp (2025 price, 2026 TBC)",
+    "time": "From 7:30pm, open until 1am (2025)",
+    "includes": [
+      "Three-course dinner",
+      "Sparkling or beer",
+      "Riverside setting at Southgate"
+    ],
+    "fireworks": "Southbank fireworks views",
+    "age": "Check with venue",
+    "url": "https://hophaus.com.au/",
+    "featured": false,
+    "blurb": "A German beer hall on the Southgate riverfront with a set NYE dinner and the bar open until 1am."
+  },
+  {
+    "slug": "bearbrass-nye-dinner",
+    "name": "BearBrass New Year's Eve",
+    "venue": "BearBrass, Southbank Promenade",
+    "suburb": "Southbank",
+    "area": "Southbank & South Wharf",
+    "categories": [
+      "dining",
+      "yarra",
+      "family",
+      "budget"
+    ],
+    "price_from": 175,
+    "price_text": "$175pp + booking fee · kids menu $50 (12 and under)",
+    "time": "Bookings from 7:00pm",
+    "includes": [
+      "Three-course NYE dinner",
+      "Front-row city skyline views for the countdown",
+      "Walk-in bar with NYE bar menu and pizzas",
+      "Children's menu"
+    ],
+    "fireworks": "Skyline views",
+    "age": "All ages (under 18 with a guardian)",
+    "url": "https://www.bearbrass.com.au/events/new-years-eve/",
+    "featured": false,
+    "blurb": "A riverfront Southbank restaurant with skyline views and a kids' menu, so the whole family can see in the new year."
+  },
+  {
+    "slug": "byblos-docklands-nye",
+    "name": "New Year's Eve at Byblós Docklands",
+    "venue": "Byblós Bar & Restaurant, Siddeley St",
+    "suburb": "Docklands",
+    "area": "Docklands",
+    "categories": [
+      "dining",
+      "family",
+      "budget"
+    ],
+    "price_from": 125,
+    "price_text": "$125 adults · $65 kids (2025 prices, 2026 TBC)",
+    "time": "Sunset 5:30pm · Countdown 8:00pm (2025)",
+    "includes": [
+      "Three-course Lebanese mezze",
+      "Live Lebanese drummers",
+      "Riverside setting",
+      "Early sitting for families"
+    ],
+    "fireworks": "Nearby Docklands fireworks",
+    "age": "All ages",
+    "url": "https://www.melbourne.byblosbar.com.au/",
+    "featured": false,
+    "blurb": "A Lebanese feast on the Docklands waterfront with drummers, a kids' price and two sittings."
+  },
+  {
+    "slug": "ruby-riviera-nye",
+    "name": "NYE at Ruby Riviera",
+    "venue": "Ruby Riviera, South Wharf Promenade",
+    "suburb": "South Wharf",
+    "area": "Southbank & South Wharf",
+    "categories": [
+      "dining",
+      "yarra",
+      "family",
+      "budget"
+    ],
+    "price_from": 110,
+    "price_text": "$110 adults · $50 kids · minimum 4 guests (2025 prices, 2026 TBC)",
+    "time": "6:30pm – 11:30pm, two seatings (2025)",
+    "includes": [
+      "Mediterranean shared banquet",
+      "Sparkling welcome",
+      "Riverside setting"
+    ],
+    "fireworks": "Riverside views",
+    "age": "All ages",
+    "url": "https://rubyriviera.store/",
+    "featured": false,
+    "blurb": "A Mediterranean taberna on South Wharf with a shared banquet and a kids' price, ideal for a group dinner by the river."
+  },
+  {
+    "slug": "blackbird-melbourne-nye",
+    "name": "New Year's Eve at Blackbird Melbourne",
+    "venue": "Blackbird Melbourne, Flinders Lane",
+    "suburb": "Melbourne CBD",
+    "area": "Melbourne CBD",
+    "categories": [
+      "dining",
+      "party"
+    ],
+    "price_from": 149,
+    "price_text": "Dining $149 (+$150 drinks) · cocktail party $230 (2025 prices, 2026 TBC)",
+    "time": "Dining 5:00pm & 8:00pm · party 7:30pm – 12:30am (2025)",
+    "includes": [
+      "Five-course menu option",
+      "Cocktail party with canapés",
+      "Live saxophone and burlesque performers"
+    ],
+    "fireworks": "No direct view",
+    "age": "18+ (party)",
+    "url": "https://www.blackbirdmelbourne.com.au/",
+    "featured": false,
+    "blurb": "A Flinders Lane bar and grill offering either a five-course dinner or a glamorous cocktail party with live sax."
+  },
+  {
+    "slug": "society-melbourne-nye",
+    "name": "New Year's Eve at Society & Lillian",
+    "venue": "Society, 80 Collins St",
+    "suburb": "Melbourne CBD",
+    "area": "Melbourne CBD",
+    "categories": [
+      "fine-dining",
+      "dining"
+    ],
+    "price_from": 99,
+    "price_text": "Lounge $99 · Lillian $165 · Dining Room $330 (2025 prices, 2026 TBC)",
+    "time": "12:00pm – 11:00pm (2025)",
+    "includes": [
+      "Chef's selection menus",
+      "Dom Pérignon option",
+      "Late-night DJ sets",
+      "Martini service"
+    ],
+    "fireworks": "No direct view",
+    "age": "Check with venue",
+    "url": "https://societyrestaurant.com/",
+    "featured": false,
+    "blurb": "One of Melbourne's grandest dining rooms, with three price levels from the lounge to the full dining room."
+  },
+  {
+    "slug": "maison-batard-nye",
+    "name": "New Year's Eve at Maison Bâtard",
+    "venue": "Maison Bâtard, Bourke St",
+    "suburb": "Melbourne CBD",
+    "area": "Melbourne CBD",
+    "categories": [
+      "fine-dining",
+      "dining",
+      "party"
+    ],
+    "price_from": 195,
+    "price_text": "From $195 · late-night Le Club session +$250 (2025 prices, 2026 TBC)",
+    "time": "12:00pm – 10:30pm, plus late session (2025)",
+    "includes": [
+      "Modern French cuisine",
+      "Roving entertainment",
+      "Terrace and indoor dining",
+      "Le Club late-night soirée option"
+    ],
+    "fireworks": "No direct view",
+    "age": "Check with venue",
+    "url": "https://www.maisonbatard.com.au/",
+    "featured": false,
+    "blurb": "Chris Lucas's multi-level French house, with dinner followed by the Le Club cabaret-style late session."
+  },
+  {
+    "slug": "spirit-of-melbourne-nye-dinner-cruise",
+    "name": "Spirit of Melbourne NYE Dinner Cruise",
+    "venue": "Melbourne River Cruises, Southbank Promenade",
+    "suburb": "Southbank",
+    "area": "On the Yarra & the Bay",
+    "categories": [
+      "cruise",
+      "dining",
+      "yarra"
+    ],
+    "price_from": 575,
+    "price_text": "From $575 per adult (listed as sold out, waitlist open)",
+    "time": "About 4.5 hours, to 12:45am",
+    "includes": [
+      "Four-course meal",
+      "Premium drinks throughout",
+      "Live DJ",
+      "Midnight fireworks from the river"
+    ],
+    "fireworks": "Midnight on the Yarra",
+    "age": "Check with operator",
+    "url": "https://www.melbcruises.com.au/nye-spirit-of-melbourne-dinner-cruise/",
+    "featured": true,
+    "blurb": "A floating restaurant on the Yarra with four courses, premium drinks and the midnight fireworks from the water. It sells out early."
+  },
+  {
+    "slug": "melbourne-river-cruises-nye-party-cruise",
+    "name": "NYE Party Cruise on the Yarra",
+    "venue": "Melbourne River Cruises, Southbank Promenade Berth 1",
+    "suburb": "Southbank",
+    "area": "On the Yarra & the Bay",
+    "categories": [
+      "cruise",
+      "party",
+      "yarra"
+    ],
+    "price_from": 299,
+    "price_text": "Gold $299 · Platinum $335 per adult",
+    "time": "8:30pm – 12:30am (check-in from 8:00pm)",
+    "includes": [
+      "Gourmet stand-up cocktail food",
+      "Wine, beer and soft drinks",
+      "Premium spirits (Platinum)",
+      "Resident DJ",
+      "Midnight fireworks from the river"
+    ],
+    "fireworks": "Midnight on the Yarra",
+    "age": "Check with operator",
+    "url": "https://www.melbcruises.com.au/new-years-eve-cruises/nye-party-cruise-platinum-package/",
+    "featured": false,
+    "blurb": "A four-hour cocktail party on the Yarra with drinks, food and a DJ, timed to be on the water at midnight."
+  },
+  {
+    "slug": "melbourne-river-cruises-over-40s-nye",
+    "name": "NYE Party Cruise for Over 40s",
+    "venue": "Melbourne River Cruises, Southbank Promenade",
+    "suburb": "Southbank",
+    "area": "On the Yarra & the Bay",
+    "categories": [
+      "cruise",
+      "party",
+      "yarra"
+    ],
+    "price_from": 299,
+    "price_text": "$299 – $375 per adult",
+    "time": "About 4 hours",
+    "includes": [
+      "Music and dancing",
+      "Cocktail food",
+      "Drinks package",
+      "Midnight fireworks from the river"
+    ],
+    "fireworks": "Midnight on the Yarra",
+    "age": "40+",
+    "url": "https://www.melbcruises.com.au/new-years-eve-cruises/nye-party-cruise-over-40s/",
+    "featured": false,
+    "blurb": "A grown-up party cruise for guests 40 and over, with dancing, food and the midnight fireworks from the river."
+  },
+  {
+    "slug": "melbourne-river-cruises-midnight-fireworks",
+    "name": "NYE Midnight Fireworks Cruise",
+    "venue": "Melbourne River Cruises, Southbank Promenade Berth 1",
+    "suburb": "Southbank",
+    "area": "On the Yarra & the Bay",
+    "categories": [
+      "cruise",
+      "yarra",
+      "budget"
+    ],
+    "price_from": 209,
+    "price_text": "$209 per adult",
+    "time": "11:00pm – 1:00am (check-in from 10:30pm)",
+    "includes": [
+      "Two-hour cruise timed for midnight",
+      "Bar on board",
+      "No booking fees"
+    ],
+    "fireworks": "Midnight on the Yarra",
+    "age": "18+",
+    "url": "https://www.melbcruises.com.au/new-years-eve-cruises/nye-cruise-midnight-fireworks-cruise/",
+    "featured": false,
+    "blurb": "Skip the long night out: a short cruise that boards at 10:30pm and puts you on the river for the midnight show."
+  },
+  {
+    "slug": "melbourne-river-cruises-twilight-nye",
+    "name": "NYE Twilight Family Cruise",
+    "venue": "Melbourne River Cruises, Southbank Promenade Berth 1",
+    "suburb": "Southbank",
+    "area": "On the Yarra & the Bay",
+    "categories": [
+      "cruise",
+      "family",
+      "yarra",
+      "budget"
+    ],
+    "price_from": 125,
+    "price_text": "$125 adult · $109 teen · $79 child (2–12)",
+    "time": "8:00pm – 9:30pm (check-in 7:30pm)",
+    "includes": [
+      "1.5-hour sunset cruise past Southbank and Flinders Street Station",
+      "9:30pm fireworks (subject to council approval)",
+      "No booking fees"
+    ],
+    "fireworks": "9:30pm",
+    "age": "All ages",
+    "url": "https://www.melbcruises.com.au/new-years-eve-cruises/nye-cruise-a-twilight-cruise/",
+    "featured": false,
+    "blurb": "A family cruise along the Yarra at sunset that lines up with the 9:30pm fireworks, then has the kids home before late."
+  },
+  {
+    "slug": "victoria-star-red-white-nye-cruise",
+    "name": "NYE Fireworks Extravaganza Red & White Cruise",
+    "venue": "Victoria Star Cruises, 131 Harbour Esplanade",
+    "suburb": "Docklands",
+    "area": "On the Yarra & the Bay",
+    "categories": [
+      "cruise",
+      "party",
+      "budget"
+    ],
+    "price_from": 230,
+    "price_text": "$230 early bird · $260 standard",
+    "time": "Board 7:00pm · depart 8:10pm · dock 12:30am",
+    "includes": [
+      "5.5-hour cruise including boarding",
+      "Welcome drink and Champagne toast",
+      "House wine, beer and soft drinks",
+      "Grazing menu",
+      "Live music upstairs, DJ downstairs",
+      "Red and white dress theme"
+    ],
+    "fireworks": "Midnight",
+    "age": "18+",
+    "url": "https://victoriastar.com.au/",
+    "featured": false,
+    "blurb": "A five-and-a-half-hour party cruise from Docklands with live music, a DJ and a Champagne toast at midnight. 2026 tickets are on sale."
+  },
+  {
+    "slug": "yarra-river-cruises-melba-star-nye",
+    "name": "New Year's Eve Cruise Party on the Melba Star",
+    "venue": "Yarra River Cruises, Berth 2 Federation Wharf, Princes Walk",
+    "suburb": "Melbourne CBD",
+    "area": "On the Yarra & the Bay",
+    "categories": [
+      "cruise",
+      "dining",
+      "family",
+      "yarra"
+    ],
+    "price_from": 349,
+    "price_text": "$349 – $375",
+    "time": "8:30pm – 12:30am",
+    "includes": [
+      "Chinese buffet dinner",
+      "Beer, wine, sparkling cider, juice and soft drinks",
+      "Finger food and snacks",
+      "Party music",
+      "360-degree fireworks viewing"
+    ],
+    "fireworks": "Midnight on the Yarra",
+    "age": "All ages",
+    "url": "https://yarrarivercruises.com.au/product/new-years-eve-cruise-party/",
+    "featured": false,
+    "blurb": "One of the few all-ages dinner cruises on the river, leaving two minutes' walk from Flinders Street Station."
+  },
+  {
+    "slug": "magic-charters-kingfisher-nye",
+    "name": "Magic Charters NYE Cruise on Kingfisher II",
+    "venue": "Harbour Lights Landing, Harbour Esplanade",
+    "suburb": "Docklands",
+    "area": "On the Yarra & the Bay",
+    "categories": [
+      "cruise",
+      "party",
+      "bay"
+    ],
+    "price_from": 285,
+    "price_text": "$285 per adult inc GST",
+    "time": "8:30pm, about 4 hours",
+    "includes": [
+      "Finger food all night",
+      "Open bar: beer, wine, spirits and soft drinks",
+      "DJ",
+      "Route past Victoria Harbour, the Yarra, Williamstown and Hobsons Bay"
+    ],
+    "fireworks": "Midnight",
+    "age": "18+",
+    "url": "https://www.magiccharters.net.au/event/new-year-eve-cruise/",
+    "featured": false,
+    "blurb": "A small-boat open-bar cruise that heads out from Docklands towards Williamstown and the bay, back in time for midnight."
+  },
+  {
+    "slug": "city-of-melbourne-celebration-zones",
+    "name": "City of Melbourne Celebration Zones",
+    "venue": "Docklands, Kings Domain, Treasury Gardens & Flagstaff Gardens",
+    "suburb": "Melbourne",
+    "area": "Melbourne CBD",
+    "categories": [
+      "free",
+      "family",
+      "vantage"
+    ],
+    "price_from": 0,
+    "price_text": "Free, no booking (2025 format; 2026 plans TBA)",
+    "time": "6:00pm – 1:00am (2025)",
+    "includes": [
+      "9:30pm family fireworks and midnight fireworks",
+      "DJs, silent discos and dance workshops",
+      "Food trucks (value deals from $15 in 2025)",
+      "Accessible toilets",
+      "Alcohol-free (fines apply)"
+    ],
+    "fireworks": "Both 9:30pm & midnight",
+    "age": "All ages",
+    "url": "https://nye.melbourne.vic.gov.au/",
+    "featured": false,
+    "blurb": "The official free zones run by the City of Melbourne: entertainment from 6pm, fireworks at 9:30pm and midnight, and no alcohol."
+  },
+  {
+    "slug": "fed-square-nye",
+    "name": "New Year's Eve at Fed Square",
+    "venue": "Federation Square, Swanston & Flinders Sts",
+    "suburb": "Melbourne CBD",
+    "area": "Melbourne CBD",
+    "categories": [
+      "free",
+      "family",
+      "party"
+    ],
+    "price_from": 0,
+    "price_text": "Free entry to the Main Square (2025, 2026 TBC)",
+    "time": "From 7:00pm (2025)",
+    "includes": [
+      "Melbourne DJs on the main stage",
+      "Fireworks around 9:28pm and at midnight (2025)",
+      "Paid packages at Fed Square bars and restaurants",
+      "Lift access and wheelchair accessibility"
+    ],
+    "fireworks": "Both 9:30pm & midnight",
+    "age": "All ages",
+    "url": "https://fedsquare.com/events/new-years-eve",
+    "featured": false,
+    "blurb": "The city's town square throws a free party with DJs and both fireworks shows. Arrive early: it gets very crowded."
+  },
+  {
+    "slug": "footscray-park-nye",
+    "name": "New Year's Eve in Footscray Park",
+    "venue": "Footscray Park, Maribyrnong Blvd",
+    "suburb": "Footscray",
+    "area": "Inner West",
+    "categories": [
+      "free",
+      "family",
+      "vantage"
+    ],
+    "price_from": 0,
+    "price_text": "Free (2025, 2026 TBC)",
+    "time": "6:00pm – 10:30pm (2025)",
+    "includes": [
+      "9:30pm fireworks",
+      "Food trucks and family entertainment",
+      "Lost-kids wristbands",
+      "Alcohol-free and pet-free",
+      "Free shuttles from Footscray Station (2025)"
+    ],
+    "fireworks": "9:30pm",
+    "age": "All ages",
+    "url": "https://www.maribyrnong.vic.gov.au/News/Celebrate-New-Year%E2%80%99s-Eve-in-Footscray-Park",
+    "featured": false,
+    "blurb": "Maribyrnong Council's free family night by the river, with its own 9:30pm fireworks and an early finish."
+  },
+  {
+    "slug": "australian-pops-orchestra-nye-gala",
+    "name": "Australian Pops Orchestra NYE Gala",
+    "venue": "Hamer Hall, Arts Centre Melbourne, 100 St Kilda Rd",
+    "suburb": "Southbank",
+    "area": "Kings Domain & Arts Precinct",
+    "categories": [
+      "family"
+    ],
+    "price_from": null,
+    "price_text": "TBA (see Arts Centre Melbourne)",
+    "time": "Matinee and evening sessions (past years: 2pm and 8pm)",
+    "includes": [
+      "John Foreman's 60-piece Australian Pops Orchestra",
+      "Guest musical-theatre stars",
+      "Matinee option for families"
+    ],
+    "fireworks": "No view (indoor concert)",
+    "age": "All ages",
+    "url": "https://www.artscentremelbourne.com.au/whats-on/2026/classical-music/nye-and-the-day-before",
+    "featured": false,
+    "blurb": "A long-running NYE gala concert at Hamer Hall, with a matinee that suits families and an evening show for adults."
+  }
+]
